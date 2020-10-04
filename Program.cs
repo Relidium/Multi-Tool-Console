@@ -13,44 +13,8 @@ using System.Net.Sockets;
 //General Management
 using System.Security.Principal;
 using System.Text;
-// Notes:
-//   nexure is fat
-//   we live in a society
-//   visual studio's code cleanup is poop
-//   i am csharp pro yes?
-//   my wee wee goes boing boing boing
-//   introducing multicoolconsole version 1.2, now with switch statements.
-//   imagine using if statements! lol! could never be me. (this post was made by the switch statement gang)
-//   nohh you cant just say your program is open source and then not upload the code online noohhh :sob: :sob: :sob: :cry: :baby: :monkey:
-//   im in a jar rn
-//   is this dnspy? ew...
-//   Trance - 009 Sound System Dreamscape (HD)
-//   bruhbruburubuhubhurhburhrhburhbuhruhburubhuhburubhurhbuhruhburhburhbuhurhbrub
-//   ur a skid for looking at my code u know
-//   purchase synapse x now.
-//   saddam is really smelly ngl
-//   Kernel32.dll is a virus! Delete it now!
-//   how add print command
-//   just got suspended from protosmasher for "Attacking owners is a nono." LOL
-//   eeeeeeeasadsads
-//   lmaobox > nullcore
-//   whaits
-//   WHY IS THE NAMESPACE CALLED PINGER AND NOT MTC???? HMMMM????
-//   pp
-//   this laptop is broken asf
-//   yoooo dracula theme
-//   NOOOOOOOOOOOOOOOOOO IT DOESNT DECOMPILE NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-//   when the c 
-//   C
-//   cup
-//   mmmmoney
-//   yes
-//   make sure to like and subscribe, and share this video, and comment, because today im gonna teach you, how to commit multiple mass genocides in syria and get away without punishment :)
-//   ho w
-//   WTF
-//   stop looking at my soruce code u nerd...
-//   wwwahh wah wahhhhhhh NOOOHHH NOH
 
+// ignore the namespace title....
 namespace Pinger
 {
 
